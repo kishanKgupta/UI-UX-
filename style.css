@@ -79,7 +79,8 @@ main {
 }
 
 .box-container{
-  background-color: #333;
+  background-color: #ddfdd2;
+  padding: 4px;
 }
 
 .button-container {
